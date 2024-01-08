@@ -1,0 +1,92 @@
+[
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\calculation.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\calculation.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/calculation.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/calculation.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\config.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\config.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/config.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/config.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\domain.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\domain.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/domain.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/domain.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\fluid.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\fluid.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/fluid.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/fluid.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\kernel.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\kernel.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/kernel.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/kernel.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\main.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\main.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/main.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\output.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\output.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/output.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/output.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\pair.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\pair.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/pair.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/pair.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\parameter.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\parameter.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/parameter.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/parameter.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\physics.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\physics.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/physics.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/physics.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\properties.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\properties.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/properties.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/properties.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\sim.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\sim.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/sim.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/sim.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\sim_time.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\sim_time.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/sim_time.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/sim_time.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\solid.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\solid.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/solid.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/solid.cpp.obj"
+},
+{
+  "directory": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/SPHNJ_CPU.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\SPHNJ_CPU.dir\\src\\virt.cpp.obj -c D:\\SPH_soft\\SPH_2D_CPU\\SPHNJ_CPU\\src\\virt.cpp",
+  "file": "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/src/virt.cpp",
+  "output": "CMakeFiles/SPHNJ_CPU.dir/src/virt.cpp.obj"
+}
+]

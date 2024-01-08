@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/SPHNJ_CPU.dir/src/calculation.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/calculation.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/config.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/config.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/domain.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/domain.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/fluid.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/fluid.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/kernel.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/kernel.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/main.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/main.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/output.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/output.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/pair.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/pair.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/parameter.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/parameter.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/physics.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/physics.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/properties.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/properties.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/sim.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/sim.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/sim_time.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/sim_time.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/solid.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/solid.cpp.obj.d"
+  "CMakeFiles/SPHNJ_CPU.dir/src/virt.cpp.obj"
+  "CMakeFiles/SPHNJ_CPU.dir/src/virt.cpp.obj.d"
+  "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/bin/SPHNJ_CPU.exe"
+  "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/bin/SPHNJ_CPU.exe.manifest"
+  "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/bin/SPHNJ_CPU.pdb"
+  "D:/SPH_soft/SPH_2D_CPU/SPHNJ_CPU/bin/libSPHNJ_CPU.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/SPHNJ_CPU.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
