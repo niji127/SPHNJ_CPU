@@ -1,3 +1,0 @@
-D:\Code\Cmake\bin\cmake.exe -E rm -f CMakeFiles\SPHNJ_CPU.dir/objects.a
-D:\Code\mingw64\bin\ar.exe qc CMakeFiles\SPHNJ_CPU.dir/objects.a @CMakeFiles\SPHNJ_CPU.dir\objects1.rsp
-D:\Code\mingw64\bin\g++.exe -fopenmp -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\SPHNJ_CPU.dir/objects.a -Wl,--no-whole-archive -o D:\SPH_soft\SPH_2D_CPU\SPHNJ_CPU\bin\SPHNJ_CPU.exe -Wl,--out-implib,D:\SPH_soft\SPH_2D_CPU\SPHNJ_CPU\bin\libSPHNJ_CPU.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SPHNJ_CPU.dir\linkLibs.rsp
