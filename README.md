@@ -1,2 +1,3 @@
+# SPHNJ_CPU
 CPU version of SPHNJ<br />
-Multi-threads using OpenMP
+- Multi-threads OpenMP
